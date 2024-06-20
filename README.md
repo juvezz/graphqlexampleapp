@@ -2,7 +2,10 @@
 This is testing graphql app with Apollo Server with disabled introspection.
 The main purpupose of this app to show how to reveal schema with https://github.com/sinsoku/clairvoyance
 
-## To start application ##
+## To read about this app
+https://medium.com/@petrukhin.s.a/reveal-graphql-apollo-server-schema-423d8a5b1ec2
+
+## To start application 
 ```npm install```
 
 ```npm start```
